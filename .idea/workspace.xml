@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785e194a-301e-4acf-8dc7-8f9fabfba280" name="Changes" comment="Veckouppgift 1.1">
+    <list default="true" id="785e194a-301e-4acf-8dc7-8f9fabfba280" name="Changes" comment="Veckouppgift 1.1 + 1.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -76,11 +76,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1736624617709</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Veckouppgift 1.1 + 1.2">
+      <option name="closed" value="true" />
+      <created>1736625782865</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1736625782865</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Veckouppgift 1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 1.1" />
+    <MESSAGE value="Veckouppgift 1.1 + 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 1.1 + 1.2" />
   </component>
 </project>
