@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785e194a-301e-4acf-8dc7-8f9fabfba280" name="Changes" comment="Veckouppgift 1.1 + 1.2, 3.1a">
+    <list default="true" id="785e194a-301e-4acf-8dc7-8f9fabfba280" name="Changes" comment="Veckouppgift 1.1 + 1.2 + 2 + 3.1a+b, 3.2a.b">
+      <change afterPath="$PROJECT_DIR$/Veckouppgift2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,29 +23,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MonireBergs"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MonireBergs&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MonireBergs/Uppgift-1.git",
-    "accountId": "4a232c78-0f9f-4431-8fb1-1aa5a89d1173"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MonireBergs/Uppgift-1.git&quot;,
+    &quot;accountId&quot;: &quot;4a232c78-0f9f-4431-8fb1-1aa5a89d1173&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2rUrPsoPtLuwQy4spBsrtwMpSIG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Veckouppgift2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -90,13 +93,21 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1736696097995</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Veckouppgift 1.1 + 1.2 + 2 + 3.1a+b, 3.2a.b">
+      <option name="closed" value="true" />
+      <created>1736711980064</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1736711980064</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Veckouppgift 1.1" />
     <MESSAGE value="Veckouppgift 1.1 + 1.2" />
     <MESSAGE value="Veckouppgift 1.1 + 1.2, 3.1a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 1.1 + 1.2, 3.1a" />
+    <MESSAGE value="Veckouppgift 1.1 + 1.2 + 2 + 3.1a+b, 3.2a.b" />
+    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 1.1 + 1.2 + 2 + 3.1a+b, 3.2a.b" />
   </component>
 </project>
