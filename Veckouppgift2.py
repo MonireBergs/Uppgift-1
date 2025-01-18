@@ -47,14 +47,12 @@ skillnad = abs(tottenham - liverpool)
 -----------------------------------------------------------------------------------------------------------------"""""
 
 
-#tempraturomvandling version 1:
+#tempraturomvandling version 1 och 2
 """
 tempratur_c = float(input("Skriv in en tempratur i Celsius: "))
 far = 1.8 * tempratur_c + 32
 print("det blir " , float(far), "fahrenheit")
 """
-
-#tempraturomvandling version 2:
 
 
 #tempraturomvandling version 3:
@@ -107,6 +105,7 @@ elif tal2 >= tal1 and tal2 >= tal3:
 elif tal3 >= tal1 and tal3 >= tal2:
     print("tal3 är större än tal1 och tal2")
 """
+"""
 #Miniräknare 3
 inmatning_av_tal1 = float(input("Skriv in tal 1: "))
 tal1 = inmatning_av_tal1
@@ -136,8 +135,23 @@ elif tal3 == tal2:
 
 else:
     print("inget matchar")
+"""
 
 #Miniräknaren 4
+inmatning_av_tal1 = float(input("Skriv in tal 1: "))
+tal1 = inmatning_av_tal1
+inmatning_av_tal2 = float(input("Skriv in tal 2: "))
+tal2 = inmatning_av_tal2
+inmatning_av_tal3 = float(input("Skriv in tal 3: "))
+tal3 = inmatning_av_tal3
+
+if tal1 == tal2 and tal2 == tal3:
+    print("Mellersta talet är" + str(tal2))
+elif tal1 != tal2 and tal2 != tal3:
+    print("Mellersta talet är" + str(tal2))
+else:
+    print("inget av dom är mellersta")
+
 
 
 
